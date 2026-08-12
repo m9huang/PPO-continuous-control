@@ -70,13 +70,13 @@ At the beginning of training, the agent behaves almost randomly and has not yet 
 
 ### Intermediate Training
 
-After some training episodes, the agent begins to learn useful control patterns, but the behavior may still be unstable.
+After 300 episodes, the agent begins to learn useful control patterns, but the behavior may still be unstable.
 
 ![Episode 300](gifs/episode_300.gif)
 
 ### Later Training
 
-The policy becomes more consistent and the agent can achieve better control performance.
+After 600 episodes, the policy becomes more consistent and the agent can achieve better control performance.
 
 ![Episode 600](gifs/episode_600.gif)
 
