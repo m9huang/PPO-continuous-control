@@ -12,10 +12,10 @@ PPO-continuous-control/
 ├── training.py
 ├── reward_curve.png
 ├── gifs/
-    ├── before_training.gif
-    ├── episode_300.gif
-    ├── episode_600.gif
-    ├── best_policy.gif
+│   ├── before_training.gif
+│   ├── episode_300.gif
+│   ├── episode_600.gif
+│   └── best_policy.gif
 └── README.md
 ```
 
